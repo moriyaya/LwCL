@@ -39,8 +39,8 @@ python evaluate.py
 ## Visual comparison
 1. Numerical mechanism evaluation:
 <p align="center">
-    <img src="./Figures/4-1.png" alt="Figure 4-1" width="45%" style="margin-right: 10px;"/>
-    <img src="./Figures/4-2.png" alt="Figure 4-2" width="45%"/>
+    <img src="./Figures/4-1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
+    <img src="./Figures/4-2.png" alt="Figure 4-2" width="35%"/>
 </p>
 
 ## Citation
@@ -49,11 +49,13 @@ If you use this code or ideas from the paper for your research, please cite our 
 @article{liu2024learning,
   title={Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications},
   author={Liu, Risheng and Gao, Jiaxin and Liu, Xuan and Fan, Xin},
-  journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
-  number={01},
-  pages={1--18},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={46},
+  number={7},
+  pages={5026--5043},
   year={2024},
-  publisher={IEEE Computer Society}
+  publisher={IEEE}
+
 }
 
 @article{liu2021investigating,
@@ -70,4 +72,6 @@ If you use this code or ideas from the paper for your research, please cite our 
 
 ## Acknowledgement
 Part of the code is adapted from previous works: [IAPTT-GM](https://github.com/vis-opt-group/IAPTT-GM) and [BLO](https://github.com/vis-opt-group/BLO). We thank all the authors for their contributions.
+
+If you have any questions, feel free to contact Jiaxin Gao at jiaxinn.gao@outlook.com.
 
