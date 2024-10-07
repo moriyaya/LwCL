@@ -38,8 +38,10 @@ python evaluate.py
 
 ## Visual comparison
 1. Numerical mechanism evaluation:
-![](./Figures/4-1.png)
-![](./Figures/4-2.png)
+<p align="center">
+    <img src="./Figures/4-1.png" alt="Figure 4-1" width="45%" style="margin-right: 10px;"/>
+    <img src="./Figures/4-2.png" alt="Figure 4-2" width="45%"/>
+</p>
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
