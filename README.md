@@ -37,7 +37,9 @@ python evaluate.py
 ```
 
 ## Visual comparison
-![](./Figures/visual.jpg)
+1. Numerical mechanism evaluation:
+![](./Figures/4-1.png)
+![](./Figures/4-2.png)
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
