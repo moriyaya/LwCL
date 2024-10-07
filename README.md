@@ -42,7 +42,7 @@ Python  Numerical.py  # For the non-convex numerical examples.
     <img src="./Figures/4-1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
     <img src="./Figures/4-2.png" alt="Figure 4-2" width="35%"/>
 </p>
-2. Comparison of training efficiency results measured by FID and IS on CIFAR10 dataset (listed top) and CIFAR100 datasets (listed bottom):
+2. GAN and Its Variants: 
 <p align="center">
     <img src="./Figures/MoG.png" alt="CIFAR comparison" width="70%">
 </p>
