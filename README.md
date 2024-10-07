@@ -27,7 +27,10 @@ This code mainly requires the following:
 
 You can run the python file for different applications following the script below:
 1. GAN and Its Variants
-
+```
+Python unrolled_gan_rhg_ring_LwCL.py  # For 2D Ring MOG dataset.
+Python  unrolled_gan_rhg_cube_LwCL.py  # For 3D Cube MOG dataset.
+```
 
 2. Multi-Task Meta-Learning Few-Shot Classification
 
