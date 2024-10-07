@@ -46,7 +46,7 @@ For hyper-cleaning experiments, download the corresponding datasets, and place i
 Then, execute the following command:
 
 ```
-python data_hyper_cleaning.py  # For data hyper-cleaning tasks.
+python ./HPL/data_hyper_cleaning.py  # For data hyper-cleaning tasks.
 ```
 
 ## Partial Results
