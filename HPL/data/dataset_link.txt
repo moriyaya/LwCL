@@ -1,0 +1,5 @@
+omniglot : https://github.com/brendenlake/omniglot
+miniimagenet : https://github.com/renmengye/few-shot-ssl-public/
+tieredimagenet https://github.com/renmengye/few-shot-ssl-public/
+mnist : http://yann.lecun.com/exdb/mnist/
+fashionmnist : https://github.com/zalandoresearch/fashion-mnist
