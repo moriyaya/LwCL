@@ -1,4 +1,4 @@
-# [TPAMI 2024] Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications [[Paper]](https://ieeexplore.ieee.org/abstract/document/10430445/)
+# [TPAMI 2024] :gem: Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications [[Paper]](https://ieeexplore.ieee.org/abstract/document/10430445/)
 <h4 align="center">Risheng Liu<sup>1,2</sup>, Jiaxin Gao<sup>1</sup>, Xuan Liu<sup>1</sup>, Xin Fan<sup>1</sup></h4>
 <h4 align="center">1. Dalian University of Technology,</h4>
 <h4 align="center">2. Peng Cheng Laboratory</h4>
@@ -43,7 +43,7 @@ python train_maml_system.py --name_of_args_json_file experiment_config/mini-imag
 ```
 
 
-## Results
+## Partial Results
 1. Numerical mechanism evaluation:
 <p align="center">
     <img src="./Figures/4-1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
