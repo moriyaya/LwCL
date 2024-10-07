@@ -44,7 +44,7 @@ Python  Numerical.py  # For the non-convex numerical examples.
 </p>
 2. Comparison of training efficiency results measured by FID and IS on CIFAR10 dataset (listed top) and CIFAR100 datasets (listed bottom):
 <p align="center">
-    <img src="./Figures/cifar.png" alt="CIFAR comparison" width="70%">
+    <img src="./Figures/MoG.png" alt="CIFAR comparison" width="70%">
 </p>
 
 ## Citation
