@@ -6,7 +6,7 @@
 
 
 ## Pipeline
-![](./Figures/pipeline.jpg)
+![](./Figures/pipeline.png)
 
 ## Dependencies
 ```
