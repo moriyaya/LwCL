@@ -5,6 +5,7 @@
 
 
 
+
 ## Pipeline
 ![](./Figures/pipeline.png)
 
@@ -41,6 +42,11 @@ python evaluate.py
 <p align="center">
     <img src="./Figures/4-1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
     <img src="./Figures/4-2.png" alt="Figure 4-2" width="35%"/>
+</p>
+2. Comparison of training efficiency results measured by FID and IS on CIFAR10 dataset (listed top) and CIFAR100 datasets (listed bottom):
+<p align="center">
+    <img src="./Figures/cifar101.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
+    <img src="./Figures/cifar102.png" alt="Figure 4-2" width="35%"/>
 </p>
 
 ## Citation
