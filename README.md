@@ -36,7 +36,7 @@ Python  Data_hyper_cleaning.py  # For data hyper-cleaning tasks.
 Python  Numerical.py  # For the non-convex numerical examples.
 ```
 
-## Visual comparison
+## Results
 1. Numerical mechanism evaluation:
 <p align="center">
     <img src="./Figures/4-1.png" alt="Figure 4-1" width="35%" style="margin-right: 10px;"/>
