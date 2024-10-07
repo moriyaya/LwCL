@@ -6,7 +6,7 @@
 
 
 
-## :gem: Pipeline
+## Pipeline
 ![](./Figures/pipeline.png)
 
 
