@@ -42,15 +42,28 @@ python evaluate.py
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-@InProceedings{Jiang_2024_ECCV,
-    author    = {Jiang, Hai and Luo, Ao and Liu, Xiaohong and Han, Songchen and Liu, Shuaicheng},
-    title     = {LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models},
-    booktitle = {European Conference on Computer Vision},
-    year      = {2024},
-    pages     = {}
+@article{liu2024learning,
+  title={Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications},
+  author={Liu, Risheng and Gao, Jiaxin and Liu, Xuan and Fan, Xin},
+  journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
+  number={01},
+  pages={1--18},
+  year={2024},
+  publisher={IEEE Computer Society}
+}
+
+@article{liu2021investigating,
+  title={Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond},
+  author={Liu, Risheng and Gao, Jiaxin and Zhang, Jin and Meng, Deyu and Lin, Zhouchen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={12},
+  pages={10045--10067},
+  year={2021},
+  publisher={IEEE}
 }
 ```
 
 ## Acknowledgement
-Part of the code is adapted from previous works: [WeatherDiff](https://github.com/IGITUGraz/WeatherDiffusion) and [MIMO-UNet](https://github.com/chosj95/MIMO-UNet). We thank all the authors for their contributions.
+Part of the code is adapted from previous works: [IAPTT-GM](https://github.com/vis-opt-group/IAPTT-GM) and [BLO](https://github.com/vis-opt-group/BLO). We thank all the authors for their contributions.
 
