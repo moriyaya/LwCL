@@ -29,10 +29,12 @@ You can download our pre-trained model from [[Google Drive]](https://drive.googl
 ### Usage
 
 You can run the python file for different applications following the script below:
+1. GAN and Its Variants
 
-1. Multi-Task Meta-Learning Few-Shot Classification
 
-For the few-shot classification experiments in multi-task meta-learning, the entire network architecture is based on the [L2F](https://github.com/baiksung/L2F) network. You can download the complete code from [Baidu Yun (extraction code: cjzk)](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ). The datasets used are **mini-Imagenet** [mini-Imagenet](https://www.kaggle.com/datasets/arjunashok33/miniimagenet) and **Omniglot** [Omniglot](https://github.com/brendenlake/omniglot). 
+2. Multi-Task Meta-Learning Few-Shot Classification
+
+For the few-shot classification experiments in multi-task meta-learning, the entire network architecture is based on the [L2F](https://github.com/baiksung/L2F) network. You can download the complete code from [Baidu Yun (extraction code: i06p)](https://pan.baidu.com/s/1ACtg6W1nnEsZI9LDB9lPTQ). The datasets used are **mini-Imagenet** [mini-Imagenet](https://www.kaggle.com/datasets/arjunashok33/miniimagenet) and **Omniglot** [Omniglot](https://github.com/brendenlake/omniglot). 
 
 Please download the corresponding dataset, for example, **mini_imagenet_full_size.tar.bz2**, and place it in the **dataset** directory. 
 
