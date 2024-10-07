@@ -26,15 +26,14 @@ Please refer to [[Project Page of RetinexNet]](https://daooshee.github.io/BMVC20
 ## Pre-trained Models 
 You can download our pre-trained model from [[Google Drive]](https://drive.google.com/drive/folders/1m3t15rWw76IDDWJ0exLOe5P0uEnjk3zl?usp=drive_link) and [[Baidu Yun (extracted code:cjzk)]](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ)
 
-## How to train?
-You need to modify ```datasets/dataset.py``` slightly for your environment, and then
-```
-python train.py  
-```
+### Usage
 
-## How to test?
+You can run the python file for different applications following the script below:
+
 ```
-python evaluate.py
+Python Few_shot.py  # For few shot classification tasks.
+Python  Data_hyper_cleaning.py  # For data hyper-cleaning tasks.
+Python  Numerical.py  # For the non-convex numerical examples.
 ```
 
 ## Visual comparison
