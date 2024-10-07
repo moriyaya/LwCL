@@ -1,8 +1,10 @@
-# [ECCV 2024] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models [[Paper]](https://arxiv.org/pdf/2407.08939)
-<h4 align="center">Hai Jiang<sup>1,5</sup>, Ao Luo<sup>2,5</sup>, Xiaohong Liu<sup>4</sup>, Songchen Han<sup>1</sup>, Shuaicheng Liu<sup>3,5</sup></center>
-<h4 align="center">1.Sichuan University, 2.Southwest Jiaotong University, 
-<h4 align="center">3.University of Electronic Science and Technology of China,</center></center>
-<h4 align="center">4.Shanghai Jiaotong University, 5.Megvii Technology</center></center>
+# [TPAMI 2024] Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications [[Paper]](https://ieeexplore.ieee.org/abstract/document/10430445/)
+<h4 align="center">Risheng Liu<sup>1</sup>, Jiaxin Gao<sup>2</sup>, Xuan Liu<sup>3</sup>, Xin Fan<sup>4</sup></h4>
+<h4 align="center">1. Dalian University of Technology,</h4>
+<h4 align="center">2. Dalian University of Technology,</h4>
+<h4 align="center">3. Dalian University of Technology,</h4>
+<h4 align="center">4. Dalian University of Technology</h4>
+
 
 ## Pipeline
 ![](./Figures/pipeline.jpg)
