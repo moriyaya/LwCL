@@ -38,8 +38,9 @@ Please download the corresponding dataset, for example, **mini_imagenet_full_siz
 
 Then, execute the following command:
 
-```bash
+```
 python train_maml_system.py --name_of_args_json_file experiment_config/mini-imagenet_l2f_mini-imagenet_5_way_1_shot_0_resnet12_GN.json --gpu_to_use 0  # For few-shot classification tasks.
+```
 
 
 ## Results
