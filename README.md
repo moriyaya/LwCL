@@ -30,11 +30,17 @@ You can download our pre-trained model from [[Google Drive]](https://drive.googl
 
 You can run the python file for different applications following the script below:
 
-```
-Python Few_shot.py  # For few shot classification tasks.
-Python  Data_hyper_cleaning.py  # For data hyper-cleaning tasks.
-Python  Numerical.py  # For the non-convex numerical examples.
-```
+# Multi-Task Meta-Learning Few-Shot Classification
+
+For the few-shot classification experiments in multi-task meta-learning, the entire network architecture is based on the L2F network. You can download the complete code from [Baidu Yun (extraction code: cjzk)](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ). The datasets used are **mini_imagenet** and **Omiglost**. 
+
+Please download the corresponding dataset, for example, **mini_imagenet_full_size.tar.bz2**, and place it in the **dataset** directory. 
+
+Then, execute the following command:
+
+```bash
+python train_maml_system.py --name_of_args_json_file experiment_config/mini-imagenet_l2f_mini-imagenet_5_way_1_shot_0_resnet12_GN.json --gpu_to_use 0  # For few-shot classification tasks.
+
 
 ## Results
 1. Numerical mechanism evaluation:
