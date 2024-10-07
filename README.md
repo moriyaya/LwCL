@@ -1,5 +1,5 @@
 # [TPAMI 2024] Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications [[Paper]](https://ieeexplore.ieee.org/abstract/document/10430445/)
-<h4 align="center">Risheng Liu<sup>1,2</sup>, Jiaxin Gao<sup>2</sup>, Xuan Liu<sup>2</sup>, Xin Fan<sup>2</sup></h4>
+<h4 align="center">Risheng Liu<sup>1,2</sup>, Jiaxin Gao<sup>1</sup>, Xuan Liu<sup>1</sup>, Xin Fan<sup>1</sup></h4>
 <h4 align="center">1. Dalian University of Technology,</h4>
 <h4 align="center">2. Peng Cheng Laboratory</h4>
 
