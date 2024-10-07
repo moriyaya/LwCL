@@ -75,7 +75,7 @@ If you use this code or ideas from the paper for your research, please cite our 
 ```
 
 ## Acknowledgement
-Part of the code is adapted from previous works: [IAPTT-GM](https://github.com/vis-opt-group/IAPTT-GM) and [BLO](https://github.com/vis-opt-group/BLO). We thank all the authors for their contributions.
+Part of the code is adapted from previous works: [IAPTT-GM](https://github.com/vis-opt-group/IAPTT-GM), [L2F](https://github.com/baiksung/L2F) and [BLO](https://github.com/vis-opt-group/BLO). We thank the authors for sharing the codes for their great works.
 
 If you have any questions, feel free to contact Jiaxin Gao at jiaxinn.gao@outlook.com.
 
