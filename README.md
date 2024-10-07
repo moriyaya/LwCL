@@ -9,10 +9,19 @@
 ## Pipeline
 ![](./Figures/pipeline.png)
 
-## Dependencies
-```
-pip install -r requirements.txt
-````
+
+### Dependencies
+You can simply run the following command automatically install the dependencies
+
+```pip install -r requirement.txt ```
+
+This code mainly requires the following:
+- Python 3.*
+- tqdm
+- Pytorch
+- [higher](https://github.com/facebookresearch/higher) 
+
+ 
  
 ### Usage
 
