@@ -30,7 +30,7 @@ You can download our pre-trained model from [[Google Drive]](https://drive.googl
 
 You can run the python file for different applications following the script below:
 
-# Multi-Task Meta-Learning Few-Shot Classification
+1. Multi-Task Meta-Learning Few-Shot Classification
 
 For the few-shot classification experiments in multi-task meta-learning, the entire network architecture is based on the L2F network. You can download the complete code from [Baidu Yun (extraction code: cjzk)](https://pan.baidu.com/s/1fPLVgnZbdY1n75Flq54bMQ). The datasets used are **mini_imagenet** and **Omiglost**. 
 
