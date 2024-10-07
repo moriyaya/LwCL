@@ -55,7 +55,7 @@ python train_maml_system.py --name_of_args_json_file experiment_config/mini-imag
 </p>
 
 ## Citation
-If you use this code or ideas from the paper for your research, please cite our paper:
+If you feel this project is helpful, please consider cite our paper :blush:
 ```
 @article{liu2024learning,
   title={Learning with Constraint Learning: New Perspective, Solution Strategy and Various Applications},
